@@ -15,7 +15,7 @@
 ## 🌐 Truy cập trang Admin:
 1. Đăng nhập bằng tài khoản admin
 2. Truy cập: `/Admin` hoặc click "Quản trị" trên menu
-3. URL trực tiếp: https://localhost:5001/Admin
+3. URL trực tiếp: http://localhost:5029/Admin
 
 ## 📊 Tính năng Admin Dashboard:
 - Thống kê: Tổng sân bóng, booking, khách hàng
