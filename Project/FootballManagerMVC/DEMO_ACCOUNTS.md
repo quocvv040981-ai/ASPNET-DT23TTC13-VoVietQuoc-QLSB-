@@ -25,8 +25,8 @@
 - ✅ Hủy booking
 
 ## 🌐 Truy cập Website
-- **URL**: http://localhost:5000
-- **Admin Panel**: http://localhost:5000/Admin
+- **URL**: http://localhost:5029
+- **Admin Panel**: http://localhost:5029/Admin
 
 ## 🎯 Tính năng nổi bật
 - **Responsive Design**: Tương thích mọi thiết bị
