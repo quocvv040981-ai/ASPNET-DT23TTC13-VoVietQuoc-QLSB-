@@ -82,7 +82,7 @@ dotnet run
 ```
 
 5. **Truy cập ứng dụng:**
-- URL: https://localhost:5001 hoặc http://localhost:5000
+- URL:  http://localhost:5029
 - Admin account: admin@footballmanager.vn / Admin123!
 
 ## Dữ liệu mẫu
